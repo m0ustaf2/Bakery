@@ -1,0 +1,27 @@
+.head {
+  color: #fff;
+  text-align: right;
+  font-size: 144px;
+  font-style: normal;
+  font-weight: 800;
+  line-height: 96%;
+  text-transform: uppercase;
+}
+
+.left {
+  background-image: url(../../assets/images/Mask\ Group.png);
+  background-size: cover;
+  background-color: #d0c2b3;
+}
+
+.para {
+  color: #c98a40;
+  width: 235px;
+  font-size: 18px;
+  font-style: normal;
+  font-weight: 600;
+  line-height: 26px;
+}
+.trans {
+  transform: translateX(-276px);
+}

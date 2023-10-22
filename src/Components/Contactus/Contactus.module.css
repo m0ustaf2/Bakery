@@ -1,0 +1,42 @@
+.main{
+    border-radius: 61px;
+    background: #FFD39F;
+    }
+
+
+.send{
+width: 168px;
+height: 56px;
+flex-shrink: 0;
+border-radius: 61px;
+border: 3px solid #C98A40;
+color: #000;
+font-size: 14px;
+font-style: normal;
+font-weight: 800;
+line-height: normal;
+background: #FFF;
+}
+
+.icon{
+width: 24px;
+height: 24px;
+flex-shrink: 0;
+color: #C98A40;
+}
+
+.text{
+color:#333333;
+font-size: 14px;
+font-style: normal;
+font-weight: 400;
+line-height: normal;
+}
+
+
+.footer{
+width:100%;
+height: 100px;
+background: #584125;
+}
+

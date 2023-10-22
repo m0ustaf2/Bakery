@@ -1,0 +1,15 @@
+.base
+{
+ background-image: url(../../assets/images/Mask\ Group.png);
+  background-size: cover;
+  background-color:#C98A40;
+  ;
+}
+
+.header p {
+font-size: 120px;
+font-weight: 800;
+line-height: 138px;
+letter-spacing: 0em;
+color: #FFFFFF;
+}
